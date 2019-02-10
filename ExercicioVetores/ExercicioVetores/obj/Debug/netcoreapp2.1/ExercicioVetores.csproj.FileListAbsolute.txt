@@ -1,0 +1,11 @@
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.deps.json
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.runtimeconfig.json
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.runtimeconfig.dev.json
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.dll
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.pdb
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.csprojAssemblyReference.cache
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.AssemblyInfo.cs
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.dll
+C:\Users\Ramon\Desktop\CURSO C#\PROJETOS\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.pdb
